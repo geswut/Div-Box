@@ -1,0 +1,34 @@
+body {
+  background-color: #D99E4C;
+}
+
+.background {
+  margin: 50px;
+  padding: 5px;
+  background: none;
+  border: 1px solid #222222;
+  color: #222222;
+}
+
+.width {
+  margin: 50px;
+  padding: 5px;
+  background: none;
+  border: 1px solid #222222;
+  color: #222222;
+}
+
+.heigth {
+  margin: 50px;
+  padding: 5px;
+  background: none;
+  border: 1px solid #222222;
+  color: #222222;
+}
+
+.mydiv {
+  margin: 100px;
+  border: 1px solid black;
+  width: 150px;
+  height: 150px;
+}
